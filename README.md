@@ -14,7 +14,7 @@ El sistema de transferencia debe moverse con la plataforma de carga y/o el eleva
 
 CONDICIONES DE LA CAJA, TAMAÑO Y CAPACIDAD DE CARGA
 
-Material Caja: Madera
+Material Caja: Madera //
 Ancho: 122 cm
 Largo: 122 cm
 Alto: 61 cm

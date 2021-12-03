@@ -30,3 +30,10 @@ Altura maxima de elevación: 10 m  <br>
 *Se considera que el elevador está fijo al suelo
 
 <hr>
+
+* Se debe garantizar el funcionamiento durante: <br>
+  - 15 años <br>
+  - 16 horas día <br>
+  - Ciclo útil de 50 %
+ 
+<hr>
